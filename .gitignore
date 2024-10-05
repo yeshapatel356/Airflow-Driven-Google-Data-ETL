@@ -1,0 +1,24 @@
+# Installer logs 
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.python-version
+
+# dotenv    
+.venv
+.dotenv
+
+# Airflow
+airflow.cfg
+unittests.cfg
+webserver_config.py
+airflow.db
+airflow-webserver.pid
+logs/
+
+# VSCode specific
+.vscode/
+
+#json files
+twitter_key.json
