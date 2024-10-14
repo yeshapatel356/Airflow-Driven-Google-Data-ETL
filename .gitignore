@@ -15,10 +15,10 @@ unittests.cfg
 webserver_config.py
 airflow.db
 airflow-webserver.pid
-logs/
+logs
+airflow_ec2_key.pem
+
 
 # VSCode specific
 .vscode/
 
-#json files
-twitter_key.json
