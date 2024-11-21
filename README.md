@@ -1,4 +1,4 @@
-# Airflow-Driven-Google-Data-ETL
+# Google Data Pipeline
 This project utilizes Apache Airflow to automate the process of extracting, transforming, and loading (ETL) restaurant data from Google Places. It allows users to search for restaurants based on location and retrieves details, reviews, and sentiment analysis for positive reviews.
 
 ## Technologies and Tools:
